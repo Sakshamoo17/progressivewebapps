@@ -1,0 +1,4 @@
+<h1>Progressive Web Apps(PWA)</h1>
+The term Progressive Web App as coined by Alex Russell and Frances Berriman. In Alex’s words: Progressive Web Apps are just websites that took all the right vitamins.
+It isn’t a new framework or technology. It is a set of best practices to make a web application function similar to a desktop or mobile application. The dream is to have an experience so uniform and seamless that the user is unable to tell the difference between a Progressive Web App and a native mobile app.”
+“Progressive web applications deliver user experiences through progressive enhancement. It essentially means that a PWA will perform the same functions on a new iPhone 8 as it would on an older generation iPhone. Sure, some features may not be available, but the app continues to work and perform like it should.”
